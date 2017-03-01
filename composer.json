@@ -1,0 +1,10 @@
+{
+    "name": "unikat/univent",
+    "authors": [
+        {
+            "name": "Konstantin Knopp",
+            "email": "k.knopp@das-unikat.com"
+        }
+    ],
+    "require": {}
+}
