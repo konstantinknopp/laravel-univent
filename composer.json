@@ -1,5 +1,6 @@
 {
 	"name": "unikat/univent",
+	"description": "The wordpress hook system in laravel",
 	"authors": [
 		{
 			"name": "Konstantin Knopp",
